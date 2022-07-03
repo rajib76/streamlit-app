@@ -1,4 +1,4 @@
-import snowflake
+import snowflake.connector
 import streamlit as st
 
 
