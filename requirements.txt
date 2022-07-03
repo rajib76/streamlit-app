@@ -1,2 +1,4 @@
 snowflake-connector-python
 streamlit~=1.10.0
+seaborn
+matplotlib
