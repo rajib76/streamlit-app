@@ -1,4 +1,6 @@
 snowflake-connector-python
+snowflake-connector-python[pandas]
+altair
 streamlit~=1.10.0
 seaborn
 matplotlib
